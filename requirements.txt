@@ -1,0 +1,5 @@
+behave==1.2.6
+requests==2.31.0
+responses==0.25.3
+jsonschema==4.20.0
+allure-behave==2.13.2
